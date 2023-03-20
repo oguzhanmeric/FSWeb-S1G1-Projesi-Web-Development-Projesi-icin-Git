@@ -39,7 +39,9 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 
 7. Merge conflict nedir?
 
+
   İki kişi aynı dosyada aynı satırı değiştirir ve otomatik olarak merge edememe durumudur. Ortaya bir çakışma çıkmış olur.
 
 8. Merge conflict'i nasıl çözeriz?
-   Bu durumda çakışma yaşayan kişi gerekirse ekipteki diğer kişi ile beraber oturup çakışmayı çözdükten sonra merge işlemine devam etmelidir. (kaynak internet)
+   Bu durumda çakışma yaşayan kişi gerekirse ekipteki diğer kişi ile beraber oturup çakışmayı çözdükten sonra merge işlemine devam etmelidir.
+
